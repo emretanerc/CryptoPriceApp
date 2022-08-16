@@ -5,7 +5,7 @@
 
 
 
-![](review.png)
+![](review.png | width=100)
 
 
 

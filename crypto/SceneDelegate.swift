@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  crypto
+//  newsapp
 //
 //  Created by Emre Taner  Çetinkaya on 16.08.2022.
 //
